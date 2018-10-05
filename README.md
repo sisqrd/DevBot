@@ -11,7 +11,7 @@
 <p>To assign a personality to the bot makes it more human</p>
 </blockquote>
 <h3><a id="The_Approach_14"></a>The Approach</h3>
-<p>I approached the assignment wanting to build something that has a little bit of a personality and attitude, a little bit like that friend who is always putting you to do something different. I started out with the basics, or just suggesting food options, but then thought more about expanding the conversation a little more to cover suggesting things to do in the area and adding little thumbnail pictures to the descriptions. I also used session to store user session data.</p>
+<p>I wanted to build something that has a little bit of a personality and attitude, a little bit like that friend who is always putting you to do something different. I started out with the basics, or just suggesting food options, but then thought more about expanding the conversation a little more to cover suggesting things to do in the area and adding little thumbnail pictures to the descriptions. I also used session to store user session data.</p>
 <ul>
 <li>[Ruby on Rails]</li>
 <li>[Sinatra] - framework</li>
