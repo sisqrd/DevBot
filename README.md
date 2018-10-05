@@ -1,2 +1,1 @@
-# DevBot
-Procrastinator Bot
+# Dev-bot-2018

@@ -1,0 +1,8 @@
+What is the most cutting edge language? C#
+
+string independence = "July 4, 1776"
+
+Q: How do you tell an introverted computer scientist from an extroverted computer scientist?\nA: An extroverted computer scientist looks at your shoes when he talks to you.
+Two bits walk into a bar for a byte.
+
+Q: “Whats the object-oriented way to become wealthy?”\nA: Inheritance
