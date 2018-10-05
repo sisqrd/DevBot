@@ -1,5 +1,5 @@
 <h1><a id="DevBot_0"></a>DevBot</h1>
-<p>Dev-Bot is a sms chat bot that gives interesting facts and jokes and pushes you out of my comfort zone. It is the perfect procrastinator bot, making suggestions of things to do and new places to try.</p>
+<p>Dev-Bot is a sms chatbot that gives interesting facts and jokes and pushes you out of my comfort zone. It is the perfect procrastinator bot, making suggestions of things to do and new places to try.</p>
 <ul>
 <li>Connects to Yelp API</li>
 <li>Connects to Twilio Account</li>
